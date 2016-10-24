@@ -1,0 +1,30 @@
+/* CSS Document */
+
+body{
+ background-color: #556b2f;
+  color: white;
+   
+}
+
+h2{
+color: black;
+text-decoration: underline;
+}
+
+h1{
+text-align: center;
+color:black;
+text-decoration:underline;
+}
+
+h3{
+color: red;
+text-decoration: underline;
+}
+a{
+color: black;
+}
+
+div.logo{
+float: left;
+}
