@@ -1,30 +1,87 @@
 /* CSS Document */
 
+/*
+
+vsechny podtrzeni vypadaji pekne ale plete se to s odkazy a tak takze bych to dal pryc :)
+
+zmenil bych taky uplne barvy pripadne bych dal na pozadi nejaky obrazek 
+
+nelibi se mi barva h3
+
+zrusil bych podtrzeni odkazu
+
+
+pravidla: komentare budem delat /*...*./       
+          inf co a jak napisem nahoru do dokumentu v komentari + doplnujici koment k dne veci v kodu 
+
+
+*/
+
+
+
+
+
+
+
+/* telo */ 
+
+
 body{
- background-color: #556b2f;
-  color: white;
-   
+ background-color: #556b2f;         /*#556b2f modelarska zelena */
+ color: white;   
 }
 
-h2{
-color: black;
-text-decoration: underline;
-}
+
+
+
+/* grafika hlavniho nadpisu        */
 
 h1{
 text-align: center;
 color:black;
-text-decoration:underline;
+font-size: 35px;
+/* text-decoration: underline; */ 
+
 }
 
-h3{
-color: red;
-text-decoration: underline;
-}
-a{
+
+
+h2{
 color: black;
+font-size: 30px;
+/* text-decoration: underline;*/
 }
 
+/* grafika nadpisu 3      */
+h3{
+color: red;  /* tahle barva se mi nelibi*/
+font-size: 25px;
+/* text-decoration: underline; */
+}
+
+/* grafika odkazu          */
+
+a{
+color: white;
+text-decoration: underline;   /* zrusil bych podtrzeni*/
+font-size: 20px;
+
+}
+
+/*odstavec*/
+
+p{
+  color: white;
+ font-size: 20px;
+ margin: 0 0 0 40px;     /* odsazeni od okraje */ 
+ 
+ /* text-align: ; zarovnat do bloku */
+
+}
+
+  /*loga sponzoru*/
+  
+  
 div.logo{
 float: left;
 }
