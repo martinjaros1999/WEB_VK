@@ -63,13 +63,18 @@ font-size: 25px;
 /* grafika odkazu          */
 a.menu{
    color: white;
+<<<<<<< HEAD
 text-decoration: underline;   
+=======
+text-decoration: none;  
+>>>>>>> origin/master
 font-size: 20px;
 display: list-item;*
 }
 a{
 color: white;
 text-decoration: underline;   
+<<<<<<< HEAD
 font-size: 20px;
 
 }
@@ -103,6 +108,8 @@ text-align: left;
 span.kdeknihovnunajdete{
  color: white;
 text-decoration: underline;   
+=======
+>>>>>>> origin/master
 font-size: 20px;
 display: inline-block; 
 padding: 14px 25px;
@@ -120,9 +127,15 @@ background-color: red;
 text-align: left;
 }
 
+<<<<<<< HEAD
 span.kontakty{
  color: white;
 text-decoration: underline;   
+=======
+span.menu{
+    color: white;
+text-decoration: none;   
+>>>>>>> origin/master
 font-size: 20px;
 display: inline-block; 
 padding: 14px 25px;
