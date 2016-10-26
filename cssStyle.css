@@ -51,7 +51,7 @@ font-size: 30px;
 
 /* grafika nadpisu 3      */
 h3{
-color: black;  /* tahle barva se mi nelibi*/
+color: black; 
 font-size: 25px;
 
 }
@@ -102,6 +102,10 @@ p{
 
 }
 
+h3.pujceni{
+color: red;  
+font-size: 25px;
+}
   /*loga sponzoru*/
   
   
