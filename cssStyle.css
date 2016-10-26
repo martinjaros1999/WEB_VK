@@ -72,35 +72,9 @@ text-decoration: underline;   /* zrusil bych podtrzeni*/
 font-size: 20px;
 /*display: list-item;*/
 }
-span.co_je_to{
- color: white;
-text-decoration: underline;   /* zrusil bych podtrzeni*/
-font-size: 20px;
-display: inline-block; 
-padding: 14px 25px;
-background-color: red;
-text-align: left;
-}
-span.jaktofunguje{
- color: white;
-text-decoration: underline;   /* zrusil bych podtrzeni*/
-font-size: 20px;
-display: inline-block; 
-padding: 14px 25px;
-background-color: red;
-text-align: left;
-}
-span.jakvenovatknihy{
- color: white;
-text-decoration: underline;   /* zrusil bych podtrzeni*/
-font-size: 20px;
-display: inline-block; 
-padding: 14px 25px;
-background-color: red;
-text-align: left;
-}
-span.kdeknihovnunajdete{
- color: white;
+
+span.menu{
+    color: white;
 text-decoration: underline;   /* zrusil bych podtrzeni*/
 font-size: 20px;
 display: inline-block; 
@@ -109,35 +83,6 @@ background-color: red;
 text-align: left;
 }
 
-span.viceinformaci{
- color: white;
-text-decoration: underline;   /* zrusil bych podtrzeni*/
-font-size: 20px;
-display: inline-block; 
-padding: 14px 25px;
-background-color: red;
-text-align: left;
-}
-
-span.kontakty{
- color: white;
-text-decoration: underline;   /* zrusil bych podtrzeni*/
-font-size: 20px;
-display: inline-block; 
-padding: 14px 25px;
-background-color: red;
-text-align: left;
-}
-
-span.spoluorganizatori{
- color: white;
-text-decoration: underline;   /* zrusil bych podtrzeni*/
-font-size: 20px;
-display: inline-block; 
-padding: 14px 25px;
-background-color: red;
-text-align: left;
-}
 
 
 span.obec{
