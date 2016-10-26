@@ -62,7 +62,7 @@ font-size: 25px;
 /* grafika odkazu          */
 a.menu{
    color: white;
-text-decoration: underline;   /* zrusil bych podtrzeni*/
+text-decoration: none;   /* zrusil bych podtrzeni*/
 font-size: 20px;
 display: list-item;*
 }
@@ -75,7 +75,7 @@ font-size: 20px;
 
 span.menu{
     color: white;
-text-decoration: underline;   /* zrusil bych podtrzeni*/
+text-decoration: none;   /* zrusil bych podtrzeni*/
 font-size: 20px;
 display: inline-block; 
 padding: 14px 25px;
