@@ -40,7 +40,7 @@ h1{
 text-align: center;
 color:black;
 font-size: 35px;
-/* text-decoration: underline; */ 
+
 
 }
 
@@ -49,14 +49,14 @@ font-size: 35px;
 h2{
 color: black;
 font-size: 30px;
-/* text-decoration: underline;*/
+
 }
 
 /* grafika nadpisu 3      */
 h3{
 color: red;  /* tahle barva se mi nelibi*/
 font-size: 25px;
-/* text-decoration: underline; */
+
 }
 
 /* grafika odkazu          */
@@ -70,7 +70,7 @@ a{
 color: white;
 text-decoration: underline;   /* zrusil bych podtrzeni*/
 font-size: 20px;
-/*display: list-item;*/
+
 }
 
 span.menu{
