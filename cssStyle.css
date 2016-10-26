@@ -51,7 +51,11 @@ font-size: 30px;
 
 /* grafika nadpisu 3      */
 h3{
+<<<<<<< HEAD
 color: black;  
+=======
+color: black; 
+>>>>>>> origin/master
 font-size: 25px;
 /* text-decoration: underline; */
 }
@@ -157,7 +161,15 @@ p{
 
 }
 
+<<<<<<< HEAD
  
+=======
+h3.pujceni{
+color: red;  
+font-size: 25px;
+}
+  /*loga sponzoru*/
+>>>>>>> origin/master
   
   
 
