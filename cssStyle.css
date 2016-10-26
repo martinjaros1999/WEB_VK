@@ -1,14 +1,11 @@
 /* CSS Document */
 
 /*
-
-vsechny podtrzeni vypadaji pekne ale plete se to s odkazy a tak takze bych to dal pryc :)
-
 zmenil bych taky uplne barvy pripadne bych dal na pozadi nejaky obrazek 
 
-nelibi se mi barva h3
 
-zrusil bych podtrzeni odkazu
+
+
 
 
 pravidla: komentare budem delat /*...*./       
@@ -54,7 +51,7 @@ font-size: 30px;
 
 /* grafika nadpisu 3      */
 h3{
-color: red;  /* tahle barva se mi nelibi*/
+color: black;  /* tahle barva se mi nelibi*/
 font-size: 25px;
 
 }
