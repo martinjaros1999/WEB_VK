@@ -37,7 +37,7 @@ h1{
 text-align: center;
 color:black;
 font-size: 35px;
-
+/* text-decoration: underline; */ 
 
 }
 
@@ -46,33 +46,59 @@ font-size: 35px;
 h2{
 color: black;
 font-size: 30px;
-
+/* text-decoration: underline;*/
 }
 
 /* grafika nadpisu 3      */
 h3{
-color: black;  /* tahle barva se mi nelibi*/
+color: black;  
 font-size: 25px;
-
+/* text-decoration: underline; */
 }
 
 /* grafika odkazu          */
 a.menu{
    color: white;
-text-decoration: none;   /* zrusil bych podtrzeni*/
+text-decoration: underline;   
 font-size: 20px;
 display: list-item;*
 }
 a{
 color: white;
-text-decoration: underline;   /* zrusil bych podtrzeni*/
+text-decoration: underline;   
 font-size: 20px;
 
 }
-
-span.menu{
-    color: white;
-text-decoration: none;   /* zrusil bych podtrzeni*/
+span.co_je_to{
+ color: white;
+text-decoration: underline;   
+font-size: 20px;
+display: inline-block; 
+padding: 14px 25px;
+background-color: red;
+text-align: left;
+}
+span.jaktofunguje{
+ color: white;
+text-decoration: underline;   
+font-size: 20px;
+display: inline-block; 
+padding: 14px 25px;
+background-color: red;
+text-align: left;
+}
+span.jakvenovatknihy{
+ color: white;
+text-decoration: underline;   
+font-size: 20px;
+display: inline-block; 
+padding: 14px 25px;
+background-color: red;
+text-align: left;
+}
+span.kdeknihovnunajdete{
+ color: white;
+text-decoration: underline;   
 font-size: 20px;
 display: inline-block; 
 padding: 14px 25px;
@@ -80,6 +106,35 @@ background-color: red;
 text-align: left;
 }
 
+span.viceinformaci{
+ color: white;
+text-decoration: underline;   
+font-size: 20px;
+display: inline-block; 
+padding: 14px 25px;
+background-color: red;
+text-align: left;
+}
+
+span.kontakty{
+ color: white;
+text-decoration: underline;   
+font-size: 20px;
+display: inline-block; 
+padding: 14px 25px;
+background-color: red;
+text-align: left;
+}
+
+span.spoluorganizatori{
+ color: white;
+text-decoration: underline;  
+font-size: 20px;
+display: inline-block; 
+padding: 14px 25px;
+background-color: red;
+text-align: left;
+}
 
 
 span.obec{
@@ -98,11 +153,11 @@ p{
  font-size: 20px;
  margin: 0 0 0 40px;     /* odsazeni od okraje */ 
  
- /* text-align: ; zarovnat do bloku */
+ 
 
 }
 
-  /*loga sponzoru*/
+ 
   
   
 
